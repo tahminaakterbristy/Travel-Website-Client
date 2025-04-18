@@ -1,8 +1,40 @@
-# React + Vite
+# 🌍 Travel Website Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ **Live Site**: https://spectacular-pavlova-fa1dda.netlify.app/  
+ **Client Repository**: [https://github.com/tahminaakterbristy/Travel-Website-Client] 
+ **Server Repository**: [https://github.com/tahminaakterbristy/Travel-Website-Server]
 
-Currently, two official plugins are available:
+##  About The Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a responsive travel website built using **React** and **Vite**, designed to provide users with an engaging platform to explore travel destinations. The project incorporates **Firebase** for backend services, **Material UI** for UI components, **React Icons** for iconography, and **React Helmet** for managing document head.
+
+##  Technologies Used
+
+-  React
+-  Vite
+- Firebase
+-  Material UI
+-  React Helmet
+-  React Icons
+-  Netlify (Deployment)
+
+##  Features
+
+- User Authentication with Firebase
+- Responsive Design for various devices
+- Dynamic Routing with React Router
+- SEO Optimization using React Helmet
+- Interactive UI components with Material UI
+- Iconography with React Icons
+
+
+
+
+To run this project locally:
+
+```bash
+git clone https://github.com/tahminaakterbristy/Travel-Website-Client.git
+cd Travel-Website-Client
+npm install
+npm run dev
+
