@@ -1,6 +1,6 @@
 #  Travel Website Client
 
- **Live Site**: https://spectacular-pavlova-fa1dda.netlify.app 
+ **Live Site**:https://dreamy-marigold-6d356d.netlify.app
  
  **Server Repository**: [https://github.com/tahminaakterbristy/Travel-Website-Server]
 
