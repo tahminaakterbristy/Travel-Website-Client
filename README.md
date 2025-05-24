@@ -1,7 +1,7 @@
-# 🌍 Travel Website Client
+#  Travel Website Client
 
- **Live Site**: https://spectacular-pavlova-fa1dda.netlify.app/  
- **Client Repository**: [https://github.com/tahminaakterbristy/Travel-Website-Client] 
+ **Live Site**: https://spectacular-pavlova-fa1dda.netlify.app 
+ 
  **Server Repository**: [https://github.com/tahminaakterbristy/Travel-Website-Server]
 
 ##  About The Project
