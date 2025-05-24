@@ -20,13 +20,19 @@ This is a responsive travel website built using **React** and **Vite**, designed
 
 ##  Features
 
-- User Authentication with Firebase
-- Responsive Design for various devices
-- Dynamic Routing with React Router
-- SEO Optimization using React Helmet
-- Interactive UI components with Material UI
-- Iconography with React Icons
-
+• Secure registration and login implemented using Firebase Authentication  
+• Users can explore tourist spots with cost-based filtering (Low to High / High to Low)  
+• Detailed view available for each tourist destination  
+• Users can book a destination via a form  
+• Booked destinations are shown under the 'My List' section  
+• A dedicated FAQ section to address common user queries  
+• Fully responsive design built with React, including both light and dark theme options  
+• Users can update their profile information such as name and photo  
+• User Authentication managed through Firebase  
+• Dynamic Routing implemented using React Router  
+• SEO Optimization with React Helmet for better discoverability  
+• Interactive UI components built with Material UI  
+• Clean and intuitive iconography using React Icons  
 
 
 
